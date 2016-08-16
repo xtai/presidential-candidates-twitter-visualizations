@@ -1,0 +1,14 @@
+# List of special charaters not in ASCII
+
+’s
+’
+‘s
+“
+”
+…
+–
+—
+​
+🇺🇸
+  
+→
